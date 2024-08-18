@@ -1,3 +1,9 @@
+---
+title: bf16_vs_fp8
+app_file: fastchat/serve/gradio_block_arena_anony.py
+sdk: gradio
+sdk_version: 4.41.0
+---
 # FastChat
 | [**Demo**](https://chat.lmsys.org/) | [**Discord**](https://discord.gg/HSWAKCrnFx) | [**X**](https://x.com/lmsysorg) |
 

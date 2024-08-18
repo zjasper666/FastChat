@@ -166,8 +166,8 @@ window.__gradio_mode__ = "app";
                         elo_results_file, leaderboard_table_file, show_plot=True
                     )
 
-            with gr.Tab("ℹ️ About Us", id=5):
-                about = build_about()
+            # with gr.Tab("ℹ️ About Us", id=5):
+            #     about = build_about()
 
         url_params = gr.JSON(visible=False)
 
